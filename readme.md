@@ -1,6 +1,6 @@
 # Tugas Lab 6 Web
 ## Profil
-| 😀 | Biodata |
+| 😀 | KETEᖇᗩᑎGᗩᑎ |
 | -------- | --- |
 | **Nama** | Muhammad Rizky Abdillah|
 | **NIM** | 312010386 |
